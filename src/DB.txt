@@ -1,0 +1,1 @@
+Add exclusive content to DB
